@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello , I'm Subham..
 An aspiring student and Web Developer , still at my learning phase , getting to know things better and how they actually work while aiming to achieve opportunities where i can fully utilize my skills and knowledge. Currently seeking for an entry-level position in a growing organization , passionate about learning as well as working on latest technologies under the guidance of experienced leaders.
 
 
