@@ -1,5 +1,5 @@
 # 💫 Hello , I'm Subham..
-An aspiring student and Web Developer , still at my learning phase , getting to know things better and how they actually work while aiming to achieve opportunities where i can fully utilize my skills and knowledge. Currently seeking for an entry-level position in a growing organization , passionate about learning as well as working on latest technologies under the guidance of experienced leaders.
+A self-taught developer and recent graduate from SRM University, I have acquired valuable skills and expertise in JavaScript, with a specific focus on React.js as well as Node & Express.js. I am proficient in working with databases like MongoDB and Postgres, and I have gained proficiency in front-end frameworks such as Tailwind CSS and Chakra UI. Currently, I am actively expanding my skill set through continuous learning of Next.js, Prisma, and the T3 stack. Additionally, I have developed a foundational understanding of .NET C# as well as C++. I am committed to continuously enhancing my knowledge and capabilities to consistently deliver outstanding software solutions.
 
 https://subhamsaha.netlify.app/
 
